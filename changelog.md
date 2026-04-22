@@ -1,11 +1,11 @@
 # v1.7 (170)
 
 - Actualización a la versión 2.123.1
-- Implementación de nuevos sistemas
+- Botón de acción añadido
 - Corrección de errores
 
 ---
 
 - Updated to version 2.123.1
-- New systems implemented
+- Action button added
 - Bug fixes
