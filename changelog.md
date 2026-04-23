@@ -1,11 +1,11 @@
-# v1.7 (170)
+# v2.123.1 (2019117599)
 
-- Actualización a la versión 2.123.1
+- Servidor actualizado
 - Botón de acción añadido
-- Corrección de errores
+- Errores corregidos
 
 ---
 
-- Updated to version 2.123.1
+- Server updated
 - Action button added
 - Bug fixes
