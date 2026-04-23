@@ -1,4 +1,4 @@
-# v2.123.1 (2019117599)
+# 2.123.1 (2019117599)
 
 - Servidor actualizado
 - Botón de acción agregado
