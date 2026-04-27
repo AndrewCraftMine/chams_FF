@@ -17,4 +17,13 @@ Solo el proceso principal del juego (paquete) debe estar desactivado:
 ## En juego
 ¡Con un *estilo invisible* ÚNICO y BONITO!
 
+Así se ve este suculento poder en partida:
+
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/bb52321b-af7c-425e-8d60-91f6916bd98d" />
+
+## Lenguaje
+**Traduce está página** si lo necesitas.
+
+## Agradecimientos
+- [Príncipe Itachi](https://t.me/thebestuno)
+- Edu
