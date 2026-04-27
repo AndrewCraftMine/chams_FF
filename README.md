@@ -10,7 +10,7 @@ Compatible con librerías en arquitectura `arm`, pero requiere dispositivos con 
 3. Disfruta de este poder
 
 ## Lista de denegación
-Antes o después de la instalación exitosa del módulo, debes desactivar únicamente el proceso principal del juego (paquete) en la lista de denegación para que funcione correctamente.
+Antes o después de la instalación exitosa del módulo, debes desactivar únicamente el proceso principal del juego (paquete) en la lista de denegación en Magisk para que funcione el módulo correctamente.
 
 Por ejemplo:
 
