@@ -1,13 +1,13 @@
-# 2.123.1 (2019117599)
+# 2019117599
 
-- Servidor actualizado
+- Juego actualizado
 - Botón de acción agregado
 - Corrección de errores
 - Lógica simplificada y actualizada
 
 ---
 
-- Server updated
+- Game updated
 - Action button added
 - Bug fixes
 - Logic simplified and updated
