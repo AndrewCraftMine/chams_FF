@@ -4,11 +4,15 @@
 - Lógica optimizada
 - Módulo migrado a otro servidor
 
+**Nota: En esta actualización, el módulo se reiniciará automáticamente para aplicar los cambios.**
+
 ---
 
 - Action button updated
 - Logic optimized
 - Module migrated to another hosting
+
+**Note: In this update, the module will automatically reboot to apply changes.**
 
 
 # 7.2 (2019117599)
