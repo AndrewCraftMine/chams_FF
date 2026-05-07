@@ -1,4 +1,4 @@
-# 8.1 (2019117599)
+# v8.1 (2019117599)
 
 - Botón de acción actualizado
 - Lógica optimizada
@@ -15,7 +15,7 @@
 **Note: In this update, the module will automatically reboot to apply changes.**
 
 
-# 7.2 (2019117599)
+# v7.2 (2019117599)
 
 - Juego actualizado
 - Botón de acción agregado
