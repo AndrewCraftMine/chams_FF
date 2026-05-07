@@ -1,4 +1,4 @@
-# 2019117599
+# 7.2 (2019117599)
 
 - Juego actualizado
 - Botón de acción agregado
