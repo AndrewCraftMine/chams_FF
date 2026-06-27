@@ -1,30 +1,26 @@
-# v8.1 (2019117599)
+# 9.2
 
-- Botón de acción actualizado
-- Lógica optimizada
-- Módulo migrado a otro servidor
+- Lógica para el juego objetivo actualizada.
+- Botón de acción actualizado.
+- Estructura y librerías actualizadas.
+- Tamaño del módulo reducido.
+- Corrección de errores.
 
-**Nota: En esta actualización, el módulo se reiniciará automáticamente para aplicar los cambios.**
+> [!NOTE]
+> **En esta versión, el módulo se reiniciará automáticamente en 2 segundos para aplicar los cambios.**
 
----
+# 8.1
 
-- Action button updated
-- Logic optimized
-- Module migrated to another hosting
+- Botón de acción actualizado.
+- Lógica interna optimizada.
+- Migración del módulo a otro servidor completada.
 
-**Note: In this update, the module will automatically reboot to apply changes.**
+> [!NOTE]
+> **En esta versión, el módulo se reiniciará automáticamente en 2 segundos para aplicar los cambios.**
 
+# 7.2
 
-# v7.2 (2019117599)
-
-- Juego actualizado
-- Botón de acción agregado
-- Lógica simplificada
-- Corrección de errores
-
----
-
-- Game updated
-- Action button added
-- Logic simplified
-- Bug fixes
+- Lógica para el juego objetivo actualizada.
+- Botón de acción agregado.
+- Lógica interna simplificada.
+- Corrección de errores.
