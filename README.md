@@ -2,17 +2,17 @@
 
 Un módulo **exclusivo** para Free Fire MAX.
 
-Compatible con librerías en arquitectura `arm`, pero requiere dispositivos con ABIs soportadas `arm64-v8a`.
-
 ## Uso
-1. Adquiere una licencia con [LEGION NBM](https://t.me/ReyNBM)
-2. Instala este módulo en Magisk y reinicia
-3. Disfruta de este poder
+1. Extrae el preajuste necesario en la ruta requerida.
+2. Instala el módulo.
+3. Disfruta de este increíble poder.
+> [!IMPORTANT]
+> Adquiere una licencia con [LEGION NBM](https://t.me/ReyNBM)
 
 ## Lista de denegación
-Antes o después de la instalación exitosa del módulo, debes desactivar únicamente el proceso principal del juego (paquete) en la lista de denegación en Magisk para que funcione el módulo correctamente.
+Antes o después de la instalación del módulo, debes desactivar únicamente el proceso principal del juego objetivo (paquete) para que el módulo funcione correctamente.
 
-Por ejemplo:
+De tal manera:
 
 <img width="1586" height="992" alt="image" src="https://github.com/user-attachments/assets/5001011d-8387-4cc2-bb8d-41b92d7c50b8" />
 
@@ -20,9 +20,6 @@ Por ejemplo:
 Así se ve este suculento poder en partida:
 
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/bb52321b-af7c-425e-8d60-91f6916bd98d" />
-
-## Idioma
-**Traduce está página** si lo necesitas.
 
 ## Agradecimientos
 - [Príncipe Itachi](https://t.me/thebestuno)
