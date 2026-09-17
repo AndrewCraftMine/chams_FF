@@ -1,6 +1,6 @@
 # 🍏 Chams NBM
 
-Un módulo **exclusivo** para Free Fire MAX.
+Un módulo **exclusivo** para **Free Fire MAX**.
 
 ## Uso
 1. **Extrae** el preajuste en `/data/local/tmp` (Obligatorio).
@@ -11,9 +11,9 @@ Un módulo **exclusivo** para Free Fire MAX.
 > Adquiere tu licencia con [ReyNBM](https://t.me/ReyNBM)
 
 ## DenyList
-Desmarca el paquete del juego para que el módulo funcione correctamente.
+**Desmarca** el paquete del juego para que el módulo funcione correctamente.
 ## SuList
-Marca únicamente el paquete del juego para que el módulo funcione correctamente.
+**Marca** únicamente el paquete del juego para que el módulo funcione correctamente.
 
 ## Compatibilidad
 - Magisk
