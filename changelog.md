@@ -1,7 +1,7 @@
 # 10.1
 - Juego actualizado.
-- Estructura modular actualizada.
-- Tamaño del módulo reducido.
+- Estructura del módulo actualizada.
+- Lógica optimizada.
 
 # 9.2
 - Juego actualizado.
@@ -10,4 +10,3 @@
 
 # 8.1
 - Botón de acción añadido.
-- Estructura modular optimizada.
