@@ -1,3 +1,9 @@
+# 10.1
+
+- Juego actualizado.
+- Estructura modular actualizada.
+- Tamaño del módulo reducido.
+
 # 9.2
 
 - Lógica para el juego objetivo actualizada.
